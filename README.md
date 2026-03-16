@@ -32,38 +32,48 @@ My career has given me a rare combination — deep domain expertise in complex, 
 ## 🚀 Featured Projects
 
 ### 🤖 [Telecom NOC AI Agent](https://github.com/DevMLAI01/telecom-noc-agent)
-> **LangGraph + RAG + AWS Lambda → Compresses 45–90 min NOC workflows into seconds**
+> **LangGraph + RAG + AWS Lambda → 45–90 min NOC workflow compressed to <60s**
 
-A production-deployed AI agent that autonomously handles Network Operations Center troubleshooting. Built with a self-correcting critic loop, RAG-powered knowledge retrieval, and a live REST API endpoint on AWS Lambda.
+4-node self-correcting state machine that autonomously investigates alarms,
+retrieves vendor SOPs via semantic search, drafts resolution tickets, and
+safety-audits its own output before returning — deployed on AWS Lambda with
+a live REST endpoint. **35 tests · 70% coverage · 3-retry self-correction loop.**
 
-`LangGraph` `RAG` `AWS Lambda` `Python` `Vector DB` `LangSmith`
+`LangGraph` `GPT-4o` `AWS Lambda` `DynamoDB` `RAG` `LangSmith`
 
 ---
 
 ### 🏗️ [Autonomous SRE & Cloud FinOps Orchestrator](https://github.com/DevMLAI01/autonomous-sre-finops)
-> **Multi-agent system: LangGraph + Gemini + Qdrant + MCP + Terraform PR automation**
+> **Multi-agent system targeting EC2 instances: CPU <5% over 7 days AND cost >$100/month**
 
-An enterprise-grade multi-agent orchestrator that detects underutilized AWS resources, evaluates decisions via HITL (Human-in-the-Loop), and auto-generates Terraform PRs for remediation. Includes Ragas evaluation and LangSmith observability.
+5-node orchestrator that scans AWS, classifies resources via RAG (faithfulness ≥ 0.85),
+generates Terraform PRs, and enforces mandatory human approval before any change —
+zero autonomous `terraform apply`, full audit trail on every decision. **$0 infrastructure cost.**
 
-`LangGraph` `Gemini` `Qdrant` `MCP` `Terraform` `AWS` `Ragas` `LangSmith`
+`LangGraph` `Gemini` `Qdrant` `MCP` `Terraform` `Ragas` `HITL`
 
 ---
 
 ### 🧬 [Legacy-to-Cloud LLM Fine-Tuner](https://github.com/DevMLAI01/Legacy-to-Cloud-tuner)
-> **Fine-tuned LLaMA 3.1-8B to translate IBM Netezza SQL → PySpark at enterprise scale**
+> **LLaMA 3.1-8B fine-tuned with LoRA — 16GB model → ~5GB, only 0.8% of weights trained**
 
-A complete fine-tuning pipeline using LoRA/PEFT and 4-bit quantization (NF4) to adapt LLaMA 3.1-8B for SQL dialect translation — dramatically accelerating legacy cloud migration projects. Exported to GGUF format for production deployment with Ollama/llama.cpp.
+Domain-adapted fine-tuning pipeline for Netezza SQL → PySpark translation using
+4-bit NF4 quantization and LoRA (rank-16). Runs on a free Colab T4 GPU and exports
+to GGUF format for production deployment via Ollama or llama.cpp.
 
-`LLaMA 3.1` `LoRA` `PEFT` `Unsloth` `TRL` `bitsandbytes` `GGUF` `Google Colab`
+`LLaMA 3.1` `LoRA/PEFT` `Unsloth` `bitsandbytes` `GGUF` `TRL`
 
 ---
 
 ### 📊 [Text-to-SQL Multi-Agent BI Orchestrator](https://github.com/DevMLAI01/text-to-sql_Mult_Agent-bi-orchestrator)
-> **Natural language → SQL via a multi-agent orchestration pipeline**
+> **3 Claude models · 5 security guards · live on AWS EC2 · self-correcting SQL pipeline**
 
-A multi-agent BI orchestrator that enables business users to query complex data warehouses using natural language, coordinating specialized agents for query planning, SQL generation, validation, and result explanation.
+4-node pipeline routing natural language through Claude Haiku (retrieval),
+Opus (SQL generation with Pydantic guards), SQLAlchemy executor, and Sonnet
+(business narrative) — with AST-based table allow-listing and automatic
+self-correction for failed queries.
 
-`Multi-Agent` `LangGraph` `Text-to-SQL` `Python` `BI Automation`
+`LangGraph` `Claude` `Streamlit` `SQLAlchemy` `Pydantic` `AWS EC2`
 
 ---
 
