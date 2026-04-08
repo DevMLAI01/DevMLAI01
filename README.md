@@ -1,6 +1,6 @@
   <h1 align="center">Hi, I'm Saurabh Kumar Dewangan 👋</h1>
 
-<h3 align="center">Technology Lead → Senior AI/ML Engineer | 19 Years in Telecom & Data Engineering | Building Intelligent Agentic Systems</h3>
+<h3 align="center">Technology Lead → Data & AI Platform Leader | 19 Years in Telecom & Data Engineering | Building Intelligent Agentic Systems</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saurabhkumardewangan" target="_blank">
