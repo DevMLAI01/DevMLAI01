@@ -1,6 +1,6 @@
   <h1 align="center">Hi, I'm Saurabh Kumar Dewangan 👋</h1>
 
-<h3 align="center">Technology Lead → Data & AI Platform Leader | 19 Years in Telecom & Data Engineering | Building Intelligent Agentic Systems</h3>
+<h3 align="center">Data & AI Leader | 19 Years Delivering at Enterprise Scale | Driving AI Adoption Across Data, Analytics & Engineering</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saurabhkumardewangan" target="_blank">
@@ -17,14 +17,14 @@
 
 ## About Me
 
-I'm a **Technology Lead with 19 years of experience** in Telecom and Data Engineering, now fully immersed in building **production-grade AI/ML systems and agentic workflows**.
+I'm a **Technology Lead with 19 years of enterprise experience** in Telecom and Data Engineering, transitioning into senior leadership roles at the intersection of **Data Analytics, Data Engineering, and AI adoption**.
 
-My career has given me a rare combination — deep domain expertise in complex, large-scale systems (Telecom NOC, legacy data migrations, cloud infrastructure) paired with hands-on skills in **LLMs, multi-agent architectures, RAG pipelines, Azure Databricks, and LLM fine-tuning**. I don't just prototype — I build AI systems that solve real operational problems at enterprise scale.
+I've spent nearly two decades owning complex, mission-critical systems — and I now apply that foundation to lead the design and delivery of **modern data platforms, AI-powered analytics pipelines, and intelligent agentic systems**. I bring both the strategic perspective to align data & AI investments with business outcomes, and the technical depth to architect and validate the solutions my teams build.
 
-- Currently building: **Azure Databricks Data Lakes · Autonomous AI Agents for Telecom & FinOps**
-- Deepening expertise in: **LangGraph · Agentic RAG · LLM Fine-tuning (LoRA/PEFT) · MLOps · Databricks Unity Catalog**
-- Targeting: **Senior AI/ML Engineer | Data & AI Platform Lead | AI Architect** roles in Canada & India
-- Superpower: Bridging the gap between messy real-world enterprise data systems and modern AI solutions
+- Driving: **Enterprise AI adoption · Data platform modernisation · Agentic AI integration into business workflows**
+- Architecture focus: **Azure Databricks Lakehouse · Medallion Architecture · Multi-agent LLM systems · RAG pipelines**
+- Targeting: **Manager | Senior Manager | Architect** roles in **Data Analytics · Data Engineering · AI** in Canada & India
+- Strength: Translating ambiguous business problems into scalable data and AI architectures — and shipping them
 - Based in **Calgary, AB, Canada** | Open to remote and hybrid roles
 
 ---
@@ -148,24 +148,24 @@ self-correction for failed queries.
 
 ---
 
-## What I Bring to a Senior Data & AI Role
+## What I Bring to a Data & AI Leadership Role
 
-| Area | Experience |
-|------|-----------|
-| **Azure Data Platform** | Databricks Medallion Architecture (Bronze/Silver/Gold), Delta Lake, Unity Catalog, ADLS Gen2, AutoLoader, Azure Functions |
-| **Agentic AI Systems** | Production LangGraph agents with RAG, HITL, self-correction loops, and tool-calling GPT-4o workflows |
-| **LLM Fine-tuning** | LoRA/PEFT fine-tuning of LLaMA models for domain-specific enterprise tasks |
-| **Enterprise Domain** | 19 years in Telecom NOC, data engineering, and large-scale cloud infrastructure |
-| **Production Mindset** | End-to-end pipelines: anomaly detection to webhook to AI triage to incident report in under 60 seconds |
-| **System Design** | Multi-agent orchestration, MCP protocol, RBAC, autonomous remediation pipelines |
+| Area | What I Deliver |
+|------|---------------|
+| **Strategic Leadership** | Define data & AI roadmaps aligned to business goals; translate C-suite priorities into architecture decisions and delivery plans |
+| **AI Adoption & Diffusion** | Drive enterprise-wide AI adoption — from use-case identification and build-vs-buy decisions to team enablement and governance frameworks |
+| **Data Platform Architecture** | Design and deliver cloud-native lakehouses (Azure Databricks, Medallion Architecture, Delta Lake, Unity Catalog) that scale to enterprise data volumes |
+| **AI & Analytics Systems** | Architect production LangGraph agents, RAG pipelines, agentic triage systems, and LLM fine-tuning workflows that solve real operational problems |
+| **Cross-functional Delivery** | 19 years leading engineers, aligning stakeholders, and shipping complex data systems in high-stakes Telecom and cloud environments |
+| **Engineering Excellence** | HITL guardrails, Ragas evaluation, observability (LangSmith/MLflow), PII masking, RBAC — building AI systems that are safe and auditable, not just functional |
 
 ---
 
 ## Let's Connect
 
-I'm actively looking for **Senior AI/ML Engineer · Data & AI Platform Lead · AI Architect** roles in **Canada and India**.
+I'm actively targeting **Manager · Senior Manager · Architect** roles in **Data Analytics · Data Engineering · AI** in **Canada and India**.
 
-If you're working on interesting AI problems — especially in Telecom, FinOps, Data Engineering modernization, or Agentic AI — I'd love to connect.
+If your organisation is modernising its data platform, scaling analytics capabilities, or figuring out how to responsibly adopt AI at enterprise scale — that is exactly the kind of challenge I want to help solve.
 
 Reach me via [LinkedIn](https://www.linkedin.com/in/saurabhkumardewangan)
 
